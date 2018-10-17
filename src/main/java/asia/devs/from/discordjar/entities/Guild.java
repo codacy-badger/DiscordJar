@@ -87,7 +87,7 @@ public interface Guild extends Snowflake {
 
     List<Channel> getChannels();
 
-    List<Presence> getPresences();
+    List<PresenceUpdate> getPresences();
 
     interface Region extends Snowflake {
 
