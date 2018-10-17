@@ -1,5 +1,8 @@
 package asia.devs.from.discordjar.entities;
 
+import asia.devs.from.discordjar.entities.channel.Channel;
+import asia.devs.from.discordjar.entities.channel.VoiceChannel;
+
 import java.time.OffsetDateTime;
 import java.util.Date;
 import java.util.List;

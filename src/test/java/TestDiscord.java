@@ -4,6 +4,5 @@ public class TestDiscord {
 
     @Test
     public void testDiscord() {
-
     }
 }
